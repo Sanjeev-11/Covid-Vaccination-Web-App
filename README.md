@@ -1,4 +1,4 @@
-# Shot Of Hope
+# Covid Vaccination Web App
 
-- Shot of Hope is a basic CRUD application that allows users to book an appointment online for Covid vaccination.
-- It allows admins to view all appointments received for a particular hospital, and also add more hospitals & slots.
+- Covid Vaccination Web App is a basic CRUD application that allows users to book an appointment online for Covid vaccination.
+- It allows admins to view all appointments received for a particular Vaccination Centre, and also add more centres & slots.
